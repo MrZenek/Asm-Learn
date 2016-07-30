@@ -25,7 +25,7 @@ gcc -m32 -o linuxc linuxc.o
 ```
 and run in terminal linuxc (./linuxc command)
 
-Windows version using C runtime
-Linux have two versions:
-1: Using Linux calls
-2: Using C runtime
+Windows version using C runtime  
+Linux have two versions:  
+1: Using Linux calls  
+2: Using C runtime 
