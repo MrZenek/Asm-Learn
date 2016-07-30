@@ -17,7 +17,7 @@ and run in cmd win.exe
 nasm -f elf linux.asm
 ld -m elf_i386 -s -o linux linux.o
 ```
-and run in terminal linux (./linux command)
+and run in terminal linux (./linux command)  
 -(C runtime)
 ```sh
 nasm -f elf linuxc.asm
