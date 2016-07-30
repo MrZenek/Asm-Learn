@@ -25,6 +25,12 @@ gcc -m32 -o linuxc linuxc.o
 ```
 and run in terminal linuxc (./linuxc command)
 
+### The same program but in C
+Windows and Linux:
+```sh
+gcc -s -o asmc asmc.c
+```
+
 Windows version using C runtime  
 Linux have two versions:  
 1: Using Linux calls  
