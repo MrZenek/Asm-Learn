@@ -34,4 +34,6 @@ gcc -s -o asmc asmc.c
 Windows version using C runtime  
 Linux have two versions:  
 1: Using Linux calls  
-2: Using C runtime 
+2: Using C runtime  
+
+All files (in this repository) are published under the Do What the Fuck You Want to Public License ( http://www.wtfpl.net/ ) 
